@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar7k9" alt="tushar7k9" /></a> </p>
 
-- 🌱 I’m currently learning **Socket.io , React**
 
-- 📫 How to reach me **devilheaven79@gmail.com**
+- 📫 How to reach me **tushar7k9gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
