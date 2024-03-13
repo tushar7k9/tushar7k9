@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar7k9&label=Profile%20views&color=0e75b6&style=flat" alt="tushar7k9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar7k9" alt="tushar7k9" /></a> </p>
+<p align="left"> <a href="https://github.com/tushar7k9/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar7k9" alt="tushar7k9" /></a> </p>
 
 
 - 📫 How to reach me **tushar7k9gmail.com**
